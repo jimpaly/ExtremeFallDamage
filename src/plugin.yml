@@ -1,0 +1,6 @@
+name: ExtremeFallDamage
+author: Jimps
+version: 1.0
+api-version: 1.15
+main: com.jimps.weakfalling.Main
+description: Players take fall damage even when falling one block
